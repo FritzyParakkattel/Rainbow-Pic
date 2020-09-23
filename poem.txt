@@ -6,3 +6,4 @@ Indigo
 Red
 Green
 Violet
+Orange
